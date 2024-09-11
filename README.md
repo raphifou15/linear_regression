@@ -10,6 +10,16 @@ Ce projet implémente une régression linéaire simple pour prédire le prix d'u
 
 2 Programme d'entraînement : Entraîne un modèle de régression linéaire sur un ensemble de données et enregistre les paramètres du modèle pour une utilisation future
 
+## Comprehention d'un entrainement supervisé
+
+1 Dataset : x features, y target
+
+2 Models : Parametres
+
+3 fonction cout :Ensemble des erreurs entre prediction du modele et les vrais valeurs du dataset
+
+4 Algorithme de minimisation : Algorithme d'aprentissage qui cherche a minimiser la fonction cout
+
 ## notion
 
 - Compréhension du modèle de régression linéaire avec une seule variable
